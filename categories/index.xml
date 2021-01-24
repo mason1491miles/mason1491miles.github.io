@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 我是阿柴</title>
+    <link>https://mason1491miles.github.io/categories/</link>
+    <description>Recent content in Categories on 我是阿柴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 20 Jan 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://mason1491miles.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Language</title>
+      <link>https://mason1491miles.github.io/categories/go-language/</link>
+      <pubDate>Wed, 20 Jan 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android And Gmaing</title>
+      <link>https://mason1491miles.github.io/categories/android-and-gmaing/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/android-and-gmaing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://mason1491miles.github.io/categories/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://mason1491miles.github.io/categories/html-css/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Language</title>
+      <link>https://mason1491miles.github.io/categories/programming-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mason1491miles.github.io/categories/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://mason1491miles.github.io/categories/web-design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mason1491miles.github.io/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
